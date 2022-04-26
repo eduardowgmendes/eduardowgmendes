@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá à Todos! 👋
 
-<!--
-**eduardowgmendes/eduardowgmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Java e Android Júnior, super entusiasta de tecnologias mobile e sistemas operacionais. Cada vez mais apaixonado pela plataforma Java, evangelista da plataforma Android e aventureiro Kotlin. Saudosista de tecnologias mobile antigas - hardware e software - dono de um Nokia 3110. Defensor assíduo das boas práticas de desenvolvimento de software Orientado à Objetos. 
 
-Here are some ideas to get you started:
+Trabalhando atualmente em projetos pessoais como aplicações Android nativas e Spring Backend Rest API's das quais essas aplicações são clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendendo Kotlin, e nas horas vagas Dart e Flutter além de Kafka, Kubernetes.    
+
+### Projetos
+Aqui vai uma lista de alguns projetos: 
+ 
+## Android  
+- [Tetris Java](https://github.com/eduardowgmendes/Tetris#tetris)
+- [Math Calc - Calculadora Android](https://github.com/eduardowgmendes/MathCalc)
+- [ToDo Notes](https://github.com/eduardowgmendes/ToDoNotes#todonotes-v100)
+- [Reveal Animation - Class](https://github.com/eduardowgmendes/Android-Reveal-Animation#reveal-view)
+
+## Spring 
+- [Harry Potter - Spring API](https://github.com/eduardowgmendes/makemagicapi#make-magic-api)
