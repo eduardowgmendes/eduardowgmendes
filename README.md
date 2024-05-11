@@ -3,9 +3,7 @@
 Desenvolvedor Java e Android Júnior, super entusiasta de tecnologias mobile e sistemas operacionais. Cada vez mais apaixonado pela plataforma Java, evangelista da plataforma Android e aventureiro Kotlin. Saudosista de tecnologias mobile antigas - hardware e software - dono de um Nokia 3110. Defensor assíduo das boas práticas de desenvolvimento de software Orientado à Objetos. 
 
 Trabalhando atualmente em projetos pessoais como aplicações Android nativas e Spring Backend Rest API's das quais essas aplicações são clientes.
-
-Aprendendo Kotlin, e nas horas vagas Dart e Flutter além de Kafka, Kubernetes.    
-
+    
 ### Projetos
 Aqui vai uma lista de alguns projetos: 
  
