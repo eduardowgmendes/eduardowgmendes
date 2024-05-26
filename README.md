@@ -1,8 +1,10 @@
-### Olá à Todos! 👋
+### Olá! 👋
 
-Desenvolvedor Java e Android Júnior, super entusiasta de tecnologias mobile e sistemas operacionais. Cada vez mais apaixonado pela plataforma Java, evangelista da plataforma Android e aventureiro Kotlin. Saudosista de tecnologias mobile antigas - hardware e software - dono de um Nokia 3110. Defensor assíduo das boas práticas de desenvolvimento de software Orientado à Objetos. 
+Desenvolvedor Java e Android Júnior, apaixonado por construir soluções escaláveis e robustas, possuo sólida experiência no desenvolvimento de aplicações Java. Domínio em tecnologias como Spring, JPA Hibernate, Jenkins e JSF me permite criar backends eficientes e frontends amigáveis. 
 
-Trabalhando atualmente em projetos pessoais como aplicações Android nativas e Spring Backend Rest API's das quais essas aplicações são clientes.
+Super entusiasta de tecnologias mobile e sistemas operacionais. Cada vez mais apaixonado pela plataforma Java, evangelista da plataforma Android e Kotlin. Defensor assíduo das boas práticas de desenvolvimento de software Orientado à Objetos.
+
+Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para o sucesso dos projetos.
     
 ### Projetos
 Aqui vai uma lista de alguns projetos: 
