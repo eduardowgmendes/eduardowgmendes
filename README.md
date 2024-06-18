@@ -10,10 +10,12 @@ Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilida
 Aqui vai uma lista de alguns projetos: 
  
 ## Android  
-- [Tetris Java](https://github.com/eduardowgmendes/Tetris#tetris)
 - [Math Calc - Calculadora Android](https://github.com/eduardowgmendes/MathCalc)
 - [ToDo Notes](https://github.com/eduardowgmendes/ToDoNotes#todonotes-v100)
-- [Reveal Animation - Class](https://github.com/eduardowgmendes/Android-Reveal-Animation#reveal-view)
+- [Reveal Animation - Class](https://github.com/eduardowgmendes/Android-Reveal-Animation#reveal-view) (Classe utilitária que aplica o efeito reveal do Material Design a qualquer view)
+
+- ## Java
+- [Tetris Java](https://github.com/eduardowgmendes/Tetris#tetris) 
 
 ## Spring 
 - [Harry Potter - Spring API](https://github.com/eduardowgmendes/makemagicapi#make-magic-api)
