@@ -19,3 +19,7 @@ Aqui vai uma lista de alguns projetos:
 
 ## Spring 
 - [Harry Potter - Spring API](https://github.com/eduardowgmendes/makemagicapi#make-magic-api)
+
+- ## Frontend 
+- [Duda - E-Commerce Marketing Afiliado](https://eduardowgmendes.github.io/duda/) 
+Um website de marketing afiliado que destaca os melhores preços e condições da internet. Encontre produtos de alta qualidade com as ofertas mais vantajosas, atualizadas diariamente para garantir que você sempre faça o melhor negócio. 
