@@ -8,18 +8,18 @@ Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilida
     
 ### Projetos
 Aqui vai uma lista de alguns projetos: 
+
+## Frontend 
+- [Duda - E-Commerce Marketing Afiliado](https://eduardowgmendes.github.io/duda/) 
+Um website de marketing afiliado que destaca os melhores preços e condições da internet. Encontre produtos de alta qualidade com as ofertas mais vantajosas, atualizadas diariamente para garantir que você sempre faça o melhor negócio. 
  
 ## Android  
 - [Math Calc - Calculadora Android](https://github.com/eduardowgmendes/MathCalc)
 - [ToDo Notes](https://github.com/eduardowgmendes/ToDoNotes#todonotes-v100)
 - [Reveal Animation - Class](https://github.com/eduardowgmendes/Android-Reveal-Animation#reveal-view) (Classe utilitária que aplica o efeito reveal do Material Design a qualquer view)
 
-- ## Java
+## Java
 - [Tetris Java](https://github.com/eduardowgmendes/Tetris#tetris) 
 
 ## Spring 
 - [Harry Potter - Spring API](https://github.com/eduardowgmendes/makemagicapi#make-magic-api)
-
-- ## Frontend 
-- [Duda - E-Commerce Marketing Afiliado](https://eduardowgmendes.github.io/duda/) 
-Um website de marketing afiliado que destaca os melhores preços e condições da internet. Encontre produtos de alta qualidade com as ofertas mais vantajosas, atualizadas diariamente para garantir que você sempre faça o melhor negócio. 
