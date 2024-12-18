@@ -48,8 +48,7 @@ Sempre em busca de **novos desafios** que me permitam aprimorar minhas habilidad
 
 ## 🌟 **Vamos nos conectar?**  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 🌐 [Portfólio](https://seu-portfolio.com)  
-- 📫 Me envie um e-mail: seu-email@gmail.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/eduardo-willian-goncalves-mendes/))    
+- 📫 Me envie um e-mail: eduardowilliangm@gmail.com  
 
 ---  
