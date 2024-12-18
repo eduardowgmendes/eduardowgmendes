@@ -18,11 +18,11 @@ Sempre em busca de **novos desafios** que me permitam aprimorar minhas habilidad
 
 ## 🚀 Tecnologias e Ferramentas  
 
-- **Linguagens:** Java, Kotlin, SQL  
+- **Linguagens:** Java, Kotlin  
 - **Backend:** Spring, JPA Hibernate  
-- **Frontend:** JSF, Material Design  
+- **Frontend:** JSF, React, Tailwind CSS 
 - **DevOps:** Jenkins, Git  
-- **Banco de Dados:** PostgreSQL, H2  
+- **Banco de Dados:** MySQL, SQLite, PostgreSQL, H2  
 
 ---
 
