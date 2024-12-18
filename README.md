@@ -29,26 +29,26 @@ Sempre em busca de **novos desafios** que me permitam aprimorar minhas habilidad
 ## 📂 **Projetos em Destaque**  
 
 ### 💻 **Frontend**  
-- **[Duda - E-Commerce Marketing Afiliado](https://github.com/seu-usuario/duda-ecommerce)**  
+- **[Duda - E-Commerce Marketing Afiliado](https://eduardowgmendes.github.io/duda/)**  
   Um website de marketing afiliado que destaca os melhores preços e condições da internet. Encontre produtos de alta qualidade com ofertas atualizadas diariamente para garantir sempre o melhor negócio.  
 
 ### 📱 **Android**  
-- **[Math Calc](https://github.com/seu-usuario/math-calc)**: Uma calculadora Android funcional e elegante.  
-- **[ToDo Notes](https://github.com/seu-usuario/todo-notes)**: Gerencie suas tarefas com simplicidade e eficiência.  
-- **[Reveal Animation Class](https://github.com/seu-usuario/reveal-animation)**: Classe utilitária que aplica o efeito "reveal" do Material Design a qualquer view.  
+- **[Math Calc](https://github.com/eduardowgmendes/MathCalc)**: Uma calculadora Android funcional e elegante.  
+- **[ToDo Notes](https://github.com/eduardowgmendes/ToDoNotes)**: Gerencie suas tarefas com simplicidade e eficiência.  
+- **[Reveal Animation Class](https://github.com/eduardowgmendes/Android-Reveal-Animation)**: Classe utilitária que aplica o efeito "reveal" do Material Design a qualquer view.  
 
 ### ☕ **Java**  
-- **[Tetris Java](https://github.com/seu-usuario/tetris-java)**: Um clássico jogo Tetris desenvolvido com Java.  
+- **[Tetris Java]([https://github.com/seu-usuario/tetris-java](https://github.com/eduardowgmendes/Tetris))**: Um clássico jogo Tetris desenvolvido com Java.  
 
 ### 🌱 **Spring**  
-- **[Harry Potter - Spring API](https://github.com/seu-usuario/harry-potter-api)**  
+- **[MakeMagic - Spring API](https://github.com/eduardowgmendes/makemagicapi)**  
   Uma API que permite explorar dados do universo Harry Potter com integração ao Spring Framework.  
 
 ---
 
 ## 🌟 **Vamos nos conectar?**  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/eduardo-willian-goncalves-mendes/))    
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-willian-goncalves-mendes/)    
 - 📫 Me envie um e-mail: eduardowilliangm@gmail.com  
 
 ---  
