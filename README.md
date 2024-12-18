@@ -42,7 +42,11 @@ Sempre em busca de **novos desafios** que me permitam aprimorar minhas habilidad
 
 ### 🌱 **Spring**  
 - **[MakeMagic - Spring API](https://github.com/eduardowgmendes/makemagicapi)**  
-  Uma API que permite explorar dados do universo Harry Potter com integração ao Spring Framework.  
+  Uma API que permite explorar dados do universo Harry Potter com integração ao Spring Framework.
+
+- **[Food Flow API](https://github.com/eduardowgmendes/food-fusion-api)**
+  Uma API de ponto de venda (POS) de última geração, projetado especificamente para bares e restaurantes. Com uma interface intuitiva e um conjunto abrangente de   funcionalidades, o **FoodFusion** otimiza suas operações, melhora a experiência do cliente e aumenta a eficiência geral do seu negócio.
+
 
 ---
 
