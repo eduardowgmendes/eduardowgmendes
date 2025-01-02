@@ -1,4 +1,8 @@
-# Olá! 👋 Bem-vindo ao meu perfil no GitHub!  
+# Olá! 👋  
+
+My name is Eduardo Mendes
+
+(Java | Spring Boot | AWS | ReactJS | Angular | Javascript | React.js | HTML | CSS) 🚀
 
 Sou um **Desenvolvedor Java e Android Júnior**, apaixonado por construir soluções escaláveis e robustas. Tenho uma sólida experiência no desenvolvimento de aplicações Java e domino tecnologias como **Spring**, **JPA Hibernate**, **Jenkins** e **JSF**.  
 
