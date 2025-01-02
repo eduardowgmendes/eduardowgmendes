@@ -1,6 +1,8 @@
 # Olá! 👋  
 
-My name is Eduardo Mendes
+## My name is Eduardo Mendes
+[LinkedIn] (https://www.linkedin.com/in/eduardo-willian-goncalves-mendes/)
+[Website] (https://www.google.com/)
 
 (Java | Spring Boot | AWS | ReactJS | Angular | Javascript | React.js | HTML | CSS) 🚀
 
