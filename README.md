@@ -2,7 +2,7 @@
 
 ## My name is Eduardo Mendes
 [LinkedIn](https://www.linkedin.com/in/eduardo-willian-goncalves-mendes/)
-[Website]([https://www.google.com/](https://eduardowgmendes.github.io/personal-resume/))
+[Website](https://eduardowgmendes.github.io/personal-resume/)
 
 (Java | Spring Boot | AWS | ReactJS | Angular | Javascript | React.js | HTML | CSS) 🚀
 
